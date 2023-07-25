@@ -1,7 +1,11 @@
 # Indian_Agriculture
 An exploratory and cluster analysis of Indian agriculture in terms of crops, states, production/yield, rainfall, year, pesticide, and fertilizer
-Source: https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset?datasetId=3525502&sortBy=dateRun&tab=bookmarked
--Kaggle File Description: “This CSV file contains agricultural data for various crops cultivated in multiple states in India during the years 1997-2020. The dataset is focused on predicting crop yields based on several agronomic factors, such as weather conditions, fertilizer and pesticide usage, and other relevant variables. The dataset is presented in tabular form, with each row representing data for a specific crop and its corresponding features. It has 19698 rows and 10 columns(9 features and 1 label).” 
+
+# Source: 
+https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset?datasetId=3525502&sortBy=dateRun&tab=bookmarked
+
+# Kaggle File Description: 
+“This CSV file contains agricultural data for various crops cultivated in multiple states in India during the years 1997-2020. The dataset is focused on predicting crop yields based on several agronomic factors, such as weather conditions, fertilizer and pesticide usage, and other relevant variables. The dataset is presented in tabular form, with each row representing data for a specific crop and its corresponding features. It has 19698 rows and 10 columns(9 features and 1 label).” 
 
 # Kaggle File Columns Description:  
 
